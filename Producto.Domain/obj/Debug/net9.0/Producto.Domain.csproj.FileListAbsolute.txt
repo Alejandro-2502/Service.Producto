@@ -1,0 +1,11 @@
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\bin\Debug\net9.0\Producto.Domain.deps.json
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\bin\Debug\net9.0\Producto.Domain.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\bin\Debug\net9.0\Producto.Domain.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.AssemblyInfoInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.AssemblyInfo.cs
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\refint\Producto.Domain.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\Producto.Domain.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicesProductos\Producto.Domain\obj\Debug\net9.0\ref\Producto.Domain.dll
