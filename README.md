@@ -61,7 +61,7 @@ Dentro de esta capa, están alojados dentro de directorios, para un mayor ordena
 
 Capa Domain: 
 	
-	- Se encuentra la entidad ( Entitys en este caso, para el cliente ) 
+	- Se encuentra la entidad ( Entitys en este caso, para el producto ) 
 	- Las Interfaces vinculadas a los patrones mencionados 
 		- IUnitOfWork ( Su interfaz ) 
 		- IProductoCommandRepository ( Su interfaz repositoria ) 
