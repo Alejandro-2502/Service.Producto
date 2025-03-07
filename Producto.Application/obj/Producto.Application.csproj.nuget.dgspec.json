@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\Producto.Application.csproj": {}
+    "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\Producto.Application.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\Producto.Application.csproj": {
+    "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\Producto.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\Producto.Application.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\Producto.Application.csproj",
         "projectName": "Producto.Application",
-        "projectPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\Producto.Application.csproj",
+        "projectPath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\Producto.Application.csproj",
         "packagesPath": "C:\\Users\\alegu\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\obj\\",
+        "outputPath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\Producto.Domain.csproj": {
-                "projectPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\Producto.Domain.csproj"
+              "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\Producto.Domain.csproj": {
+                "projectPath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\Producto.Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\Producto.Domain.csproj": {
+    "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\Producto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\Producto.Domain.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\Producto.Domain.csproj",
         "projectName": "Producto.Domain",
-        "projectPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\Producto.Domain.csproj",
+        "projectPath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\Producto.Domain.csproj",
         "packagesPath": "C:\\Users\\alegu\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Domain\\obj\\",
+        "outputPath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EAgDMISCjJA=",
+  "dgSpecHash": "VTPlOrL3Ki4=",
   "success": true,
-  "projectFilePath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicesProductos\\Producto.Application\\Producto.Application.csproj",
+  "projectFilePath": "C:\\Desarrollos\\CSharp\\Proyecto Repositorio Linkedin\\Service.Producto\\Producto.Application\\Producto.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alegu\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\alegu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
