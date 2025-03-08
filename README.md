@@ -6,7 +6,7 @@ Se emplea ademas el uso de MediatR.
 Se aplica Principios SOLID
 Para el manejo, mantenimiento y acceso a la base de datos, se emplea OMR ( EntityFramework )
 Ademas se aplica Inyeccion de Dependencias (DI)
-Tambien, se utiliza (FluentValidation), a fin de aplicar validaciones basicas a el INPUT de los request,utilizado en el controller ( ClienteCommandController )
+Tambien, se utiliza (FluentValidation), a fin de aplicar validaciones basicas a el INPUT de los request,utilizado en el controller ( ProductoCommandController )
 
 El diseño empleado consta de las siguientes capas que se mencionan a continuación:
 
